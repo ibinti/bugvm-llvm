@@ -1,6 +1,9 @@
 Low Level Virtual Machine (LLVM)
 ================================
 
+Mirror of official llvm git repository located at http://llvm.org/git/llvm.  Updated hourly.
+http://llvm.org
+
 This directory and its subdirectories contain source code for the Low Level
 Virtual Machine, a toolkit for the construction of highly optimized compilers,
 optimizers, and runtime environments.
